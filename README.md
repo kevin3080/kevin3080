@@ -52,17 +52,15 @@ I am a skilled Full Stack Developer with extensive experience in web and mobile 
 <div>
 
  ### ⚙️ &nbsp;GitHub Analytics
-  <p align="center" width="100%">
+  <p width="100%">
       <p>
         <img
           height="180em"
-          width="50%"
           src="https://github-readme-streak-stats.herokuapp.com/?user=kevin3080&"
           alt="kevin3080"
         />
         <img
           height="180em"
-          width="50%"
           src="https://github-readme-stats.vercel.app/api?username=kevin3080&show_icons=true&locale=en"
           alt="kevin3080"
         />
