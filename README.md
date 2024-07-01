@@ -67,7 +67,8 @@ I am a skilled Full Stack Developer with extensive experience in web and mobile 
     </p>
     <img
       align="center"
-      height="180em"   
+      height="180em"
+      width="100%"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin3080&show_icons=true&locale=en&layout=compact"
       alt="kevin3080"
     />
