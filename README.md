@@ -55,7 +55,7 @@ I am a skilled Full Stack Developer with extensive experience in web and mobile 
   <p width="100%">
       <p>
         <img
-          height="180em"
+          height="160em"
           src="https://github-readme-streak-stats.herokuapp.com/?user=kevin3080&"
           alt="kevin3080"
         />
