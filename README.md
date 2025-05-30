@@ -7,7 +7,7 @@
 <p align="center">
   <img
     style="width: 55rem; height: 30rem"
-    src="./1.png"
+    src="./0.png"
   />
 </p>
 <h2 font-size="40" align="center">
@@ -18,24 +18,24 @@ I am a skilled Full Stack Developer with extensive experience in web and mobile 
   <div>
     <h3>📚I'm currently learning</h3>
     <ul>
-      <li>📖 React Native</li>
-      <li>📖 Laravel</li>
-      <li>📖 Go</li>
+      <li>📖 Clean Code - Robert C. Martin</li>
+      <li>📖 .Net 8</li>
+      <li>📖 Azure</li>
     </ul>
   </div>
   <div>
     <h3>😍 What i like to do:</h3>
-    <p align="left"> I enjoy continuous learning and everything related to technology. I am very interested in mobile application development and improving my English skills
+    <p align="left"> I enjoy continuous learning and everything related to technology. I'm currently focused on cloud computing, particularly Azure, and strengthening my back-end development skills with .NET and Java, all while improving my English.
     </p>
   </div>
 </div>
 <div>
   <h3 align="left">🔨 Languages and Tools:</h3>
 <ul>
-  <li>Languages: JavaScript and TypeScript, Java, PHP, Go </li>
+  <li>Languages: JavaScript and TypeScript, Java, C# </li>
   <li>Frameworks Frontend: React, Next.js, React Native, Vuejs, Pina, Redux and Zustand</li>
-  <li>Frameworks Backend: Node.js and Espress, Nest.js, Laravel, Gin</li>
-  <li>DataBases: PostgreSQL, MySQL, MongoDB, DynamoDB</li>
+  <li>Frameworks Backend: Node.js and Espress, Nest.js, Spring Boot, .Net 8</li>
+  <li>DataBases: PostgreSQL, MySQL, MongoDB, Cosmos DB</li>
   <li>Graphic Design: Figma, Adobe Illustrator and Adobe Photoshop</li>
 </ul>
 </div>
